@@ -15,7 +15,6 @@ https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice
 ## Setup/Installation Requirements
 * Clone the Git repository https://github.com/maldonmeehan/hello-world
 * Open my-first-webpage.html in a Web browser of your choice
-* Read the text and view the photos
 
 ## Known Bugs
 
